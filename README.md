@@ -9,6 +9,7 @@
 - Jest 测试
 - semi UI
 - 多维表格插件 SDK
+- i18n
 
 ### Getting Started
 
