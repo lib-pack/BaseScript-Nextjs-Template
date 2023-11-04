@@ -4,12 +4,19 @@
 
 ![image](https://github.com/ConnectAI-E/BaseScript-Nextjs-Template/assets/110169811/15b53f4c-32c5-4bbf-a8a1-eca75bc3f3be)
 
+### Why
+
+为什么要使用这个模版？
+
+首先这个模版内置了很多开发插件必须要有的库，并且这个插件解决了在 nextjs 中使用飞书 sdk 打包的时候发生错误的问题。
+
 ### Feature
 
 - Jest 测试
 - semi UI
-- 多维表格插件 SDK
-- i18n
+- 多维表格插件 SDK（last）
+- i18n（use plugin i18n Ally）
+- 路径别名（@/ => 表示根目录）
 
 ### Getting Started
 
