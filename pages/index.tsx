@@ -3,7 +3,7 @@ import Head from "next/head";
 import dynamic from "next/dynamic";
 import { serverSideTranslations } from "next-i18next/serverSideTranslations";
 
-const DynamicComponentWithNoSSR = dynamic(() => import("./App"), {
+const DynamicComponentWithNoSSR = dynamic(() => import("@/views/Home"), {
   ssr: false,
 });
 

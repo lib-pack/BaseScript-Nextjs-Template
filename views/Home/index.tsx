@@ -1,4 +1,3 @@
-"use client";
 import { Button, Toast } from "@douyinfe/semi-ui";
 import { useState, useEffect, useRef, useCallback } from "react";
 import styles from "./index.module.css";
